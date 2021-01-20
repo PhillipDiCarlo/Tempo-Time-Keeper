@@ -1,0 +1,7 @@
+**EXAMPLE TEXT**
+
+TimeIn TimeOut CargeCode Description
+TimeIn TimeOut CargeCode Description
+TimeIn TimeOut CargeCode Description
+
+**EXAMPLE TEXT**

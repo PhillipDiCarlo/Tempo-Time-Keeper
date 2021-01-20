@@ -1,0 +1,8 @@
+**EXAMPLE TEXT**
+*NOTE: Time in military*
+
+TimeIn TimeOut CargeCode Description(DON'T USE SPACES IN DESCRIPTION)
+TimeIn TimeOut CargeCode Description(DON'T USE SPACES IN DESCRIPTION)
+TimeIn TimeOut CargeCode Description(DON'T USE SPACES IN DESCRIPTION)
+
+**EXAMPLE TEXT**
