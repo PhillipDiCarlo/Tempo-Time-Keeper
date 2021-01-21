@@ -11,8 +11,7 @@ import java.awt.TextArea;
 import javax.swing.JButton;
 import java.awt.Button;
 
-//Version v2.0.0 Alpha
-
+//v2.0.0 Alpha		// Version Number
 
 public class tempo_mainWindow {
 
