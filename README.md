@@ -9,7 +9,7 @@ TEMPO Timekeeper was a program I wrote when working for this one company because
 
 # New Features!
 
-  -Will undate if I continue working on this.
+  -Will update if I continue working on this.
 
 ### Installation
 
