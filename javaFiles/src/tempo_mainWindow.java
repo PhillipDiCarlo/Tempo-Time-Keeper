@@ -11,6 +11,9 @@ import java.awt.TextArea;
 import javax.swing.JButton;
 import java.awt.Button;
 
+//Version v2.0.0 Alpha
+
+
 public class tempo_mainWindow {
 
 	private JFrame frame;
