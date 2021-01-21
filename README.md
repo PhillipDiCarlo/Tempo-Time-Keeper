@@ -1,6 +1,7 @@
 # Tempo Timekeeper
 <img alt="GitHub tag (latest by date)" src="https://img.shields.io/github/v/tag/PhillipDiCarlo/Tempo-Time-Keeper?label=Version&style=for-the-badge">
 
+## THIS IS ALPHA BUILD
 ### Current stable build is "TimeCard.jar"
 
 TEMPO Timekeeper was a program I wrote when working for this one company because I was given many charge numbers and it became a hastle to keep track of when I started and finished each task.
